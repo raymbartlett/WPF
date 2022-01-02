@@ -1,0 +1,116 @@
+﻿<Window x:Class="DuckHunt"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="DuckHunt" Height="335" Width="558">
+    
+    <Grid>
+
+        <!--Background-->
+        <TextBlock               Background="Cornsilk"         HorizontalAlignment="Left" VerticalAlignment="Top" Height="300" Width="150" Margin="400,0,0,0"/>
+        <TextBlock Name="Day"    Background="LightCyan"        HorizontalAlignment="Left" VerticalAlignment="Top" Height="300" Width="400" Margin="0,0,0,19"/>
+        <Image     Name="Sun"    Source="Assets\sun.png"       HorizontalAlignment="Left" VerticalAlignment="Top" Height="50"  Width="50"  Margin="250,50,0,0"/>
+        <Image     Name="Logo"   Source="Assets\logo.png"      HorizontalAlignment="Left" VerticalAlignment="Top" Height="99"  Width="350" Margin="50,21,0,0"/>
+        <Image     Name="Cloud1" Source="Assets\cloud.png"     HorizontalAlignment="Left" VerticalAlignment="Top" Height="50"  Width="50"  Margin="50,100,0,0"/>
+        <Image     Name="Cloud2" Source="Assets\cloud.png"     HorizontalAlignment="Left" VerticalAlignment="Top" Height="50"  Width="50"  Margin="300,0,0,0"/>
+        <Image     Name="Cloud3" Source="Assets\cloud.png"     HorizontalAlignment="Left" VerticalAlignment="Top" Height="50"  Width="50"  Margin="133,165,0,0"/>
+        <Image     Name="Cloud4" Source="Assets\cloud.png"     HorizontalAlignment="Left" VerticalAlignment="Top" Height="50"  Width="50"  Margin="322,120,0,0"/>
+        
+        <!--Blank Tiles Row 1-->
+        <Image Source="Assets\blank.png" Name="A1" HorizontalAlignment="Left" VerticalAlignment="Top" Cursor="Cross" Height="50" Width="50" Margin="000,0,0,0"/>
+        <Image Source="Assets\blank.png" Name="A2" HorizontalAlignment="Left" VerticalAlignment="Top" Cursor="Cross" Height="50" Width="50" Margin="050,0,0,0"/>
+        <Image Source="Assets\blank.png" Name="A3" HorizontalAlignment="Left" VerticalAlignment="Top" Cursor="Cross" Height="50" Width="50" Margin="100,0,0,0"/>
+        <Image Source="Assets\blank.png" Name="A4" HorizontalAlignment="Left" VerticalAlignment="Top" Cursor="Cross" Height="50" Width="50" Margin="150,0,0,0"/>
+        <Image Source="Assets\blank.png" Name="A5" HorizontalAlignment="Left" VerticalAlignment="Top" Cursor="Cross" Height="50" Width="50" Margin="200,0,0,0"/>
+        <Image Source="Assets\blank.png" Name="A6" HorizontalAlignment="Left" VerticalAlignment="Top" Cursor="Cross" Height="50" Width="50" Margin="250,0,0,0"/>
+        <Image Source="Assets\blank.png" Name="A7" HorizontalAlignment="Left" VerticalAlignment="Top" Cursor="Cross" Height="50" Width="50" Margin="300,0,0,0"/>
+        <Image Source="Assets\blank.png" Name="A8" HorizontalAlignment="Left" VerticalAlignment="Top" Cursor="Cross" Height="50" Width="50" Margin="350,0,0,0"/>
+
+        <!--Blank Tiles Row 2-->
+        <Image Source="Assets\blank.png" Name="B1" HorizontalAlignment="Left" VerticalAlignment="Top" Cursor="Cross" Height="50" Width="50" Margin="000,50,0,0"/>
+        <Image Source="Assets\blank.png" Name="B2" HorizontalAlignment="Left" VerticalAlignment="Top" Cursor="Cross" Height="50" Width="50" Margin="100,50,0,0"/>
+        <Image Source="Assets\blank.png" Name="B3" HorizontalAlignment="Left" VerticalAlignment="Top" Cursor="Cross" Height="50" Width="50" Margin="050,50,0,0"/>
+        <Image Source="Assets\blank.png" Name="B4" HorizontalAlignment="Left" VerticalAlignment="Top" Cursor="Cross" Height="50" Width="50" Margin="150,50,0,0"/>
+        <Image Source="Assets\blank.png" Name="B5" HorizontalAlignment="Left" VerticalAlignment="Top" Cursor="Cross" Height="50" Width="50" Margin="200,50,0,0"/>
+        <Image Source="Assets\blank.png" Name="B6" HorizontalAlignment="Left" VerticalAlignment="Top" Cursor="Cross" Height="50" Width="50" Margin="250,50,0,0"/>
+        <Image Source="Assets\blank.png" Name="B7" HorizontalAlignment="Left" VerticalAlignment="Top" Cursor="Cross" Height="50" Width="50" Margin="300,50,0,0"/>
+        <Image Source="Assets\blank.png" Name="B8" HorizontalAlignment="Left" VerticalAlignment="Top" Cursor="Cross" Height="50" Width="50" Margin="350,50,0,0"/>
+
+        <!--Blank Tiles Row 3-->
+        <Image Source="Assets\blank.png" Name="C1" HorizontalAlignment="Left" VerticalAlignment="Top" Cursor="Cross" Height="50" Width="50" Margin="000,100,0,0"/>
+        <Image Source="Assets\blank.png" Name="C2" HorizontalAlignment="Left" VerticalAlignment="Top" Cursor="Cross" Height="50" Width="50" Margin="050,100,0,0"/>
+        <Image Source="Assets\blank.png" Name="C3" HorizontalAlignment="Left" VerticalAlignment="Top" Cursor="Cross" Height="50" Width="50" Margin="100,100,0,0"/>
+        <Image Source="Assets\blank.png" Name="C4" HorizontalAlignment="Left" VerticalAlignment="Top" Cursor="Cross" Height="50" Width="50" Margin="150,100,0,0"/>
+        <Image Source="Assets\blank.png" Name="C5" HorizontalAlignment="Left" VerticalAlignment="Top" Cursor="Cross" Height="50" Width="50" Margin="200,100,0,0"/>
+        <Image Source="Assets\blank.png" Name="C6" HorizontalAlignment="Left" VerticalAlignment="Top" Cursor="Cross" Height="50" Width="50" Margin="250,100,0,0"/>
+        <Image Source="Assets\blank.png" Name="C7" HorizontalAlignment="Left" VerticalAlignment="Top" Cursor="Cross" Height="50" Width="50" Margin="300,100,0,0"/>
+        <Image Source="Assets\blank.png" Name="C8" HorizontalAlignment="Left" VerticalAlignment="Top" Cursor="Cross" Height="50" Width="50" Margin="350,100,0,0"/>
+
+        <!--Blank Tiles Row 4-->
+        <Image Source="Assets\blank.png" Name="D1" HorizontalAlignment="Left" VerticalAlignment="Top" Cursor="Cross" Height="50" Width="50" Margin="000,150,0,0"/>
+        <Image Source="Assets\blank.png" Name="D2" HorizontalAlignment="Left" VerticalAlignment="Top" Cursor="Cross" Height="50" Width="50" Margin="050,150,0,0"/>
+        <Image Source="Assets\blank.png" Name="D3" HorizontalAlignment="Left" VerticalAlignment="Top" Cursor="Cross" Height="50" Width="50" Margin="100,150,0,0"/>
+        <Image Source="Assets\blank.png" Name="D4" HorizontalAlignment="Left" VerticalAlignment="Top" Cursor="Cross" Height="50" Width="50" Margin="150,150,0,0"/>
+        <Image Source="Assets\blank.png" Name="D5" HorizontalAlignment="Left" VerticalAlignment="Top" Cursor="Cross" Height="50" Width="50" Margin="200,150,0,0"/>
+        <Image Source="Assets\blank.png" Name="D6" HorizontalAlignment="Left" VerticalAlignment="Top" Cursor="Cross" Height="50" Width="50" Margin="250,150,0,0"/>
+        <Image Source="Assets\blank.png" Name="D7" HorizontalAlignment="Left" VerticalAlignment="Top" Cursor="Cross" Height="50" Width="50" Margin="300,150,0,0"/>
+        <Image Source="Assets\blank.png" Name="D8" HorizontalAlignment="Left" VerticalAlignment="Top" Cursor="Cross" Height="50" Width="50" Margin="350,150,0,0"/>
+
+        <!--Blank Tiles Row 5-->
+        <Image Source="Assets\blank.png" Name="E1" HorizontalAlignment="Left" VerticalAlignment="Top" Cursor="Cross" Height="50" Width="50" Margin="000,200,0,0"/>
+        <Image Source="Assets\blank.png" Name="E2" HorizontalAlignment="Left" VerticalAlignment="Top" Cursor="Cross" Height="50" Width="50" Margin="050,200,0,0"/>
+        <Image Source="Assets\blank.png" Name="E3" HorizontalAlignment="Left" VerticalAlignment="Top" Cursor="Cross" Height="50" Width="50" Margin="100,200,0,0"/>
+        <Image Source="Assets\blank.png" Name="E4" HorizontalAlignment="Left" VerticalAlignment="Top" Cursor="Cross" Height="50" Width="50" Margin="150,200,0,0"/>
+        <Image Source="Assets\blank.png" Name="E5" HorizontalAlignment="Left" VerticalAlignment="Top" Cursor="Cross" Height="50" Width="50" Margin="200,200,0,0"/>
+        <Image Source="Assets\blank.png" Name="E6" HorizontalAlignment="Left" VerticalAlignment="Top" Cursor="Cross" Height="50" Width="50" Margin="250,200,0,0"/>
+        <Image Source="Assets\blank.png" Name="E7" HorizontalAlignment="Left" VerticalAlignment="Top" Cursor="Cross" Height="50" Width="50" Margin="300,200,0,0"/>
+        <Image Source="Assets\blank.png" Name="E8" HorizontalAlignment="Left" VerticalAlignment="Top" Cursor="Cross" Height="50" Width="50" Margin="350,200,0,0"/>
+
+        <!--Hidden Nighttime Assets-->
+        <TextBlock Name="Night" Background="DarkSlateBlue" HorizontalAlignment="Left" VerticalAlignment="Top" Height="300" Width="400" Visibility="Hidden"/>
+        <Image     Name="Moon"  Source="Assets\moon.png"   HorizontalAlignment="Left" VerticalAlignment="Top" Height="50"  Width="50"  Visibility="Hidden" Margin="250,50,0,0"/>
+        <Image     Name="Stars" Source="Assets\stars.png"  HorizontalAlignment="Left" VerticalAlignment="Top" Height="300" Width="400" Visibility="Hidden"/>
+
+        <!--Hidden Assets-->
+        <Image Name="Blank"    Source="Assets\blank.png"    HorizontalAlignment="Left" VerticalAlignment="Top" Height="50" Width="50" Visibility="Hidden" Margin="450,10,0,0"/>
+        <Image Name="Duck"     Source="Assets\duck.png"     HorizontalAlignment="Left" VerticalAlignment="Top" Height="50" Width="50"                     Margin="450,10,0,0"/>
+        <Image Name="ShotDuck" Source="Assets\shotduck.png" HorizontalAlignment="Left" VerticalAlignment="Top" Height="50" Width="50" Visibility="Hidden" Margin="405,10,0,0"/>
+        <Image Name="grass"    Source="Assets\grass.png"    HorizontalAlignment="Left" VerticalAlignment="Top" Height="50" Width="50" Visibility="Hidden" Margin="405,10,0,0"/>
+
+        <!--grass and dog-->
+        <Image Source="Assets\dog.png"   Name="DogAppears" HorizontalAlignment="Left" VerticalAlignment="Top" Cursor="Cross" Height="100" Width="100" Margin="150,195,0,0" Visibility="Hidden"/>
+        <Image Source="Assets\grass.png"                   HorizontalAlignment="Left" VerticalAlignment="Top" Cursor="Cross" Height="50"  Width="50"  Margin="000,250,0,0"/>
+        <Image Source="Assets\grass.png"                   HorizontalAlignment="Left" VerticalAlignment="Top" Cursor="Cross" Height="50"  Width="50"  Margin="050,250,0,0"/>
+        <Image Source="Assets\grass.png"                   HorizontalAlignment="Left" VerticalAlignment="Top" Cursor="Cross" Height="50"  Width="50"  Margin="100,250,0,0"/>
+        <Image Source="Assets\grass.png"                   HorizontalAlignment="Left" VerticalAlignment="Top" Cursor="Cross" Height="50"  Width="50"  Margin="150,250,0,0"/>
+        <Image Source="Assets\grass.png"                   HorizontalAlignment="Left" VerticalAlignment="Top" Cursor="Cross" Height="50"  Width="50"  Margin="200,250,0,0"/>
+        <Image Source="Assets\grass.png"                   HorizontalAlignment="Left" VerticalAlignment="Top" Cursor="Cross" Height="50"  Width="50"  Margin="250,250,0,0"/>
+        <Image Source="Assets\grass.png"                   HorizontalAlignment="Left" VerticalAlignment="Top" Cursor="Cross" Height="50"  Width="50"  Margin="300,250,0,0"/>
+        <Image Source="Assets\grass.png"                   HorizontalAlignment="Left" VerticalAlignment="Top" Cursor="Cross" Height="50"  Width="50"  Margin="350,250,0,0"/>
+        <Image Source="Assets\grass.png"                   HorizontalAlignment="Left" VerticalAlignment="Top"                Height="50"  Width="50"  Margin="400,250,0,0"/>
+        <Image Source="Assets\grass.png"                   HorizontalAlignment="Left" VerticalAlignment="Top"                Height="50"  Width="50"  Margin="450,250,0,0"/>
+        <Image Source="Assets\grass.png"                   HorizontalAlignment="Left" VerticalAlignment="Top"                Height="50"  Width="50"  Margin="500,250,0,0"/>
+
+        <!--Display-->
+        <TextBlock Text="Num Ducks:"   Foreground="Coral" HorizontalAlignment="Left" VerticalAlignment="Top" TextAlignment="Center"              Width="50"                      Margin="450,45,0,0" FontSize="9"/>
+        <TextBlock Name="NumDucks"     Foreground="Coral" HorizontalAlignment="Left" VerticalAlignment="Top" TextAlignment="Center"              Width="50"                      Margin="450,62,0,0"/>
+        <TextBlock Name="DisplayScore" Foreground="Tan"   HorizontalAlignment="Left" VerticalAlignment="Top" TextAlignment="Center"              Width="100" Visibility="Hidden" Margin="150,145,0,0"/>
+        <TextBlock Name="NormalCursor"                    HorizontalAlignment="Left" VerticalAlignment="Top"                        Height="300" Width="400"/>
+
+        <!--High Scores-->
+        <TextBlock Text="High Scores:" Foreground="Coral" HorizontalAlignment="Left" VerticalAlignment="Top" TextAlignment="Center" FontSize="9" Width="50" Margin="450,100,0,0"/>
+        <TextBlock Name="EasyHS"       Foreground="Coral" HorizontalAlignment="Left" VerticalAlignment="Top" TextAlignment="Center" FontSize="9" Width="50" Margin="450,120,0,0"/>
+        <TextBlock Name="MediumHS"     Foreground="Coral" HorizontalAlignment="Left" VerticalAlignment="Top" TextAlignment="Center" FontSize="9" Width="50" Margin="450,137,0,0"/>
+        <TextBlock Name="HardHS"       Foreground="Coral" HorizontalAlignment="Left" VerticalAlignment="Top" TextAlignment="Center" FontSize="9" Width="50" Margin="450,154,0,0"/>
+
+        
+        <!--Buttons-->
+        <Button Name="Start"  Content="Start"      Background="Coral"     HorizontalAlignment="Left" VerticalAlignment="Top" Width="100"  Visibility="Hidden" Margin="150,145,0,0" Click="Button_Click_1"/>
+        <Button Name="Easy"   Content="Easy"       Background="Coral"     HorizontalAlignment="Left" VerticalAlignment="Top" Width="100"                      Margin="150,120,0,0" Click="Easy_Click"/>
+        <Button Name="Medium" Content="Medium"     Background="Coral"     HorizontalAlignment="Left" VerticalAlignment="Top" Width="100"                      Margin="150,145,0,0" Click="Medium_Click"/>
+        <Button Name="Hard"   Content="Hard"       Background="Coral"     HorizontalAlignment="Left" VerticalAlignment="Top" Width="100"                      Margin="150,170,0,0" Click="Hard_Click"/>
+        <Button Name="Repeat" Content="Play Again" Background="SteelBlue" HorizontalAlignment="Left" VerticalAlignment="Top" Width="100" Visibility="Hidden"  Margin="150,170,0,0" Click="Repeat_Click"/>
+        
+        
+    </Grid>
+    
+</Window>

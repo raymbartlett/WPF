@@ -1,0 +1,45 @@
+C:\Users\rbartlett\AppData\Local\Temporary Projects\SimpleWPF\bin\Debug\SimpleWPF.exe.config
+C:\Users\rbartlett\Documents\Visual Studio 2012\Projects\SimpleWPF\bin\Debug\SimpleWPF.exe.config
+C:\Users\rbartlett\Documents\Visual Studio 2012\Projects\SimpleWPF\bin\Debug\SimpleWPF.exe
+C:\Users\rbartlett\Documents\Visual Studio 2012\Projects\SimpleWPF\bin\Debug\SimpleWPF.pdb
+C:\Users\rbartlett\Documents\Visual Studio 2012\Projects\SimpleWPF\bin\Debug\SimpleWPF.xml
+C:\Users\rbartlett\Documents\Visual Studio 2012\Projects\SimpleWPF\obj\Debug\MainWindow.baml
+C:\Users\rbartlett\Documents\Visual Studio 2012\Projects\SimpleWPF\obj\Debug\MainWindow.g.vb
+C:\Users\rbartlett\Documents\Visual Studio 2012\Projects\SimpleWPF\obj\Debug\Application.g.vb
+C:\Users\rbartlett\Documents\Visual Studio 2012\Projects\SimpleWPF\obj\Debug\SimpleWPF_MarkupCompile.cache
+C:\Users\rbartlett\Documents\Visual Studio 2012\Projects\SimpleWPF\obj\Debug\SimpleWPF.g.resources
+C:\Users\rbartlett\Documents\Visual Studio 2012\Projects\SimpleWPF\obj\Debug\SimpleWPF.Resources.resources
+C:\Users\rbartlett\Documents\Visual Studio 2012\Projects\SimpleWPF\obj\Debug\SimpleWPF.vbproj.GenerateResource.Cache
+C:\Users\rbartlett\Documents\Visual Studio 2012\Projects\SimpleWPF\obj\Debug\SimpleWPF.exe
+C:\Users\rbartlett\Documents\Visual Studio 2012\Projects\SimpleWPF\obj\Debug\SimpleWPF.xml
+C:\Users\rbartlett\Documents\Visual Studio 2012\Projects\SimpleWPF\obj\Debug\SimpleWPF.pdb
+C:\Users\rbartlett\Documents\Visual Studio 2012\Projects\SimpleWPF\obj\Debug\Maze.baml
+C:\Users\rbartlett\Documents\Visual Studio 2012\Projects\SimpleWPF\obj\Debug\Maze.g.vb
+C:\Users\rbartlett\Documents\Visual Studio 2012\Projects\SimpleWPF\obj\Debug\DuckHunt.baml
+C:\Users\rbartlett\Documents\Visual Studio 2012\Projects\SimpleWPF\obj\Debug\DuckHunt.g.vb
+C:\Users\rbartlett\Documents\Visual Studio 2012\Projects\SimpleWPF\obj\Debug\GoneFishing.baml
+C:\Users\rbartlett\Documents\Visual Studio 2012\Projects\SimpleWPF\obj\Debug\GoneFishing.g.vb
+C:\Users\rbartlett\Documents\Visual Studio 2012\Projects\SimpleWPF\obj\Debug\Sandbox.baml
+C:\Users\rbartlett\Documents\Visual Studio 2012\Projects\SimpleWPF\obj\Debug\Sandbox.g.vb
+C:\Users\rayba\Desktop\WPF-master\bin\Debug\SimpleWPF.exe.config
+C:\Users\rayba\Desktop\WPF-master\bin\Debug\SimpleWPF.exe
+C:\Users\rayba\Desktop\WPF-master\bin\Debug\SimpleWPF.pdb
+C:\Users\rayba\Desktop\WPF-master\bin\Debug\SimpleWPF.xml
+C:\Users\rayba\Desktop\WPF-master\obj\Debug\SimpleWPF.vbproj.AssemblyReference.cache
+C:\Users\rayba\Desktop\WPF-master\obj\Debug\DuckHunt.baml
+C:\Users\rayba\Desktop\WPF-master\obj\Debug\MainWindow.baml
+C:\Users\rayba\Desktop\WPF-master\obj\Debug\Maze.baml
+C:\Users\rayba\Desktop\WPF-master\obj\Debug\Sandbox.baml
+C:\Users\rayba\Desktop\WPF-master\obj\Debug\DuckHunt.g.vb
+C:\Users\rayba\Desktop\WPF-master\obj\Debug\MainWindow.g.vb
+C:\Users\rayba\Desktop\WPF-master\obj\Debug\Maze.g.vb
+C:\Users\rayba\Desktop\WPF-master\obj\Debug\Sandbox.g.vb
+C:\Users\rayba\Desktop\WPF-master\obj\Debug\Application.g.vb
+C:\Users\rayba\Desktop\WPF-master\obj\Debug\SimpleWPF_MarkupCompile.cache
+C:\Users\rayba\Desktop\WPF-master\obj\Debug\SimpleWPF.g.resources
+C:\Users\rayba\Desktop\WPF-master\obj\Debug\SimpleWPF.Resources.resources
+C:\Users\rayba\Desktop\WPF-master\obj\Debug\SimpleWPF.vbproj.GenerateResource.cache
+C:\Users\rayba\Desktop\WPF-master\obj\Debug\SimpleWPF.vbproj.CoreCompileInputs.cache
+C:\Users\rayba\Desktop\WPF-master\obj\Debug\SimpleWPF.exe
+C:\Users\rayba\Desktop\WPF-master\obj\Debug\SimpleWPF.xml
+C:\Users\rayba\Desktop\WPF-master\obj\Debug\SimpleWPF.pdb
