@@ -6,7 +6,6 @@ Maze Game: A very barebones starter window where you click to reveal the walls o
 
 Duck Hunt: Duck Hunt.
 
-![Duck Hunt](https://github.com/raybartlett/WPF/blob/master/DuckHunt.PNG?raw=true)
 
 TODO
 - Sound effects?
